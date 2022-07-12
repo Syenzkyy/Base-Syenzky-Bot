@@ -40,6 +40,10 @@
 <a href="http://tiktok.com/@syenzkypubgmy"><img src="https://img.shields.io/badge/Tiktok Syenzky Pubgm-black?style=for-the-badge&logo=tiktok&logoColor=ff000000&link=https://tiktok.com/@zeroyt7" /></a>
 </p>
 
+## ```CREDIT TO OWNER BASE SC```
+```bash
+https://github.com/Zero-YT7/Base-ZeroYT7
+
 ## ```SETTING```
 
 - Owner number [Here](https://github.com/Syenzkyy/Base-Syenzky-Bot/blob/master/setting.json#L4)
@@ -92,7 +96,7 @@ apt apt install libwebp
 apt apt install imagemagick
 apt install bash
 git clone https://github.com/Syenzkyy/Base-Syenzky-Bot.git
-cd Base-ZeroYT7
+cd Base-Syenzky-Bot
 npm install
 npm start
 ```
