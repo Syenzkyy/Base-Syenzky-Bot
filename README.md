@@ -11,12 +11,12 @@
 
 - 🔭 I am Not programmer
  
-- 😎 I am like Wibu
+- 😎 I am like Chindo
 </p>
 
 ------
 
-# ```BASE SC ZERO YT7```
+# ```BASE SC SYENZKY BOTZ```
 <p align="center">
 <a href="https://github.com/Zero-YT7/followers"><img title="Followers" src="https://img.shields.io/github/followers/Zero-YT7?color=red&style=flat-square"></a>
 <a href="https://github.com/Zero-YT7/Base-ZeroYT7/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Zero-YT7/Base-ZeroYT7?color=blue&style=flat-square"></a>
@@ -34,26 +34,26 @@
 
 ## ```FOLLOW ALL SOSIALMEDIA ME```
 <p align="center">
-<a href="https://instagram.com/Zero_YT7"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-<a href="https://wa.me/6285157740529"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://youtube.com/ZeroYT7"><img src="https://img.shields.io/badge/YouTube Zero YT7-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/ZeroYT7" /><br>
-<a href="https://tiktok.com/@_zeroyt7"><img src="https://img.shields.io/badge/Tiktok Zero YT7-black?style=for-the-badge&logo=tiktok&logoColor=ff000000&link=https://tiktok.com/@zeroyt7" /></a>
+<a href="https://instagram.com/syenzky"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+<a href="https://wa.me/60109561479"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://youtube.com/akiravfx._"><img src="https://img.shields.io/badge/YouTube Zero YT7-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/ZeroYT7" /><br>
+<a href="http://tiktok.com/@syenzkypubgmy"><img src="https://img.shields.io/badge/Tiktok Zero YT7-black?style=for-the-badge&logo=tiktok&logoColor=ff000000&link=https://tiktok.com/@zeroyt7" /></a>
 </p>
 
 ## ```SETTING```
 
-- Owner number [Here](https://github.com/Zero-YT7/Base-ZeroYT7/blob/master/setting.json#L4)
-- Owner name [Here](https://github.com/Zero-YT7/Base-ZeroYT7/blob/master/setting.json#L13)
-- Botname [Here](https://github.com/Zero-YT7/Base-ZeroYT7/blob/master/setting.json#L14)
+- Owner number [Here](https://github.com/Syenzkyy/Base-Syenzky-Bot/blob/master/setting.json#L4)
+- Owner name [Here](https://github.com/Syenzkyy/Base-Syenzky-Bot/blob/master/setting.json#L13)
+- Botname [Here](hhttps://github.com/Syenzkyy/Base-Syenzky-Bot/blob/master/setting.json#L14)
 
-## ```DONASI```
+## ```DONASI KE OWNER BASE NYA```
 
 - [`SAWERIA`](https://saweria.co/ZeroYT7)
 - [`SOCIABUZZ`](https://sociabuzz.com/zeroyt7/tribe)
 
-## ```GROUP BOT```
+## ```GROUP SYENZKY CIRCLE```
 
-- [`GROUP WA`](https://chat.whatsapp.com/BM0HVJKYR2BI8JJUlQO2ue)
+- [`GROUP WA`](https://chat.whatsapp.com/LLOyCqyyeMGBfVQRDeIK0q)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
@@ -71,15 +71,15 @@ pkg install ffmpeg
 pkg install libwebp 
 pkg install imagemagick
 pkg install bash
-git clone https://github.com/Zero-YT7/Base-ZeroYT7.git
-cd Base-ZeroYT7
+git clone https://github.com/Syenzkyy/Base-Syenzky-Bot.git
+cd Base-Syenzky-Bot
 npm install
 npm start
 ```
 ## For Windows
 ```bash
-git clone https://github.com/Zero-YT7/Base-ZeroYT7.git
-cd Base-ZeroYT7
+git clone https://github.com/Syenzkyy/Base-Syenzky-Bot.git
+cd Base-Syenzky-Bot
 npm install
 npm start
 ```
@@ -91,7 +91,7 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagemagick
 apt install bash
-git clone https://github.com/Zero-YT7/Base-ZeroYT7.git
+git clone https://github.com/Syenzkyy/Base-Syenzky-Bot.git
 cd Base-ZeroYT7
 npm install
 npm start
@@ -101,6 +101,7 @@ npm start
 • Zero YT7
 • Chaliph
 • Mhankbarbar
+• Syenzkyy
 • Allah S.W.T
 • Ortu
 • All Creator Bot
