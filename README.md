@@ -41,7 +41,6 @@
 </p>
 
 ## ```CREDIT TO OWNER BASE SC```
-```bash
 https://github.com/Zero-YT7/Base-ZeroYT7
 
 ## ```SETTING```
